@@ -1,0 +1,226 @@
+/* LESS Document */
+
+
+
+/* 
+
+SVG Fill Replacement Reference
+
+color1-base-fill 	#50B380, #4FB280, #4DB180
+color1-shade4-fill	#74C39B, #74C29A, #74C19A
+color1-shade3-fill	#98D2B5, #97D1B4, #96D0B3
+color1-shade2-fill	#BAE1CD, #BAE0CC
+color1-shade1-fill	#DFF1E8, #DEEFE6, #DFF0E8
+color1-shade5-fill	#449E70, #449D71, #439D6F, #48A172
+color1-shade6-fill	#3F9268, #3E9168
+color1-shade7-fill	#347A57, #077B5E, #337A57
+
+color2-base-fill 	#555555
+color2-shade1-fill	#777777
+color2-shade2-fill	#888888
+color2-shade3-fill	#AAAAAA
+color2-shade4-fill	#BBBBBB
+color2-shade5-fill	#CCCCCC
+color2-shade6-fill	#DDDDDD
+color2-shade7-fill	#EEEEEE
+
+color3-base-fill	#FFFFFF
+
+color4-base-fill	#FFFFFF
+
+*/
+
+@black: #000000;
+@white: #FFFFFF;
+
+@color1-base: #50B380;
+@color2-base: #555555;
+@color3-base: #FFFFFF;
+@color4-base: @white;
+@color5-base: @black;
+
+@color1-shade0: mix(@color1-base, @color4-base, 4%);
+@color1-shade1: mix(@color1-base, @color4-base, 20%);
+@color1-shade2: mix(@color1-base, @color4-base, 39%);
+@color1-shade3: mix(@color1-base, @color4-base, 58%);
+@color1-shade4: mix(@color1-base, @color4-base, 78%);
+@color1-shade5: mix(@color1-base, @color5-base, 88%);
+@color1-shade6: mix(@color1-base, @color5-base, 82%);
+@color1-shade7: mix(@color1-base, @color5-base, 68%);
+
+
+@color2-shade1: mix(@color2-base, @color4-base, 80%);
+@color2-shade2: mix(@color2-base, @color4-base, 70%);
+@color2-shade2-1: mix(@color2-base, @color4-base, 60%);
+@color2-shade3: mix(@color2-base, @color4-base, 50%);
+@color2-shade4: mix(@color2-base, @color4-base, 40%);
+@color2-shade5: mix(@color2-base, @color4-base, 30%);
+@color2-shade6: mix(@color2-base, @color4-base, 20%);
+@color2-shade7: mix(@color2-base, @color4-base, 10%);
+@color2-shade8: mix(@color2-base, @color4-base, 4%);
+
+@color3-shade0: mix(@color3-base, @color2-base, 96%);
+@color3-shade1: mix(@color3-base, @color2-base, 90%);
+@color3-shade2: mix(@color3-base, @color2-base, 80%);
+@color3-shade3: mix(@color3-base, @color2-base, 70%);
+@color3-shade4: mix(@color3-base, @color2-base, 60%);
+@color3-shade5: mix(@color3-base, @color2-base, 50%);
+@color3-shade6: mix(@color3-base, @color2-base, 40%);
+@color3-shade7: mix(@color3-base, @color2-base, 30%);
+@color3-shade8: mix(@color3-base, @color2-base, 20%);
+@color3-shade9: mix(@color3-base, @color2-base, 0%);
+
+
+    
+    .color1-shade0 {background-color: @color1-shade0;}
+    .color1-shade1 {background-color: @color1-shade1;}
+    .color1-shade2 {background-color: @color1-shade2;}
+    .color1-shade3 {background-color: @color1-shade3;}
+    .color1-shade4 {background-color: @color1-shade4;}
+	.color1-base {background-color: @color1-base; line-height:100px; text-align:center; color:#fff;}
+	.color1-shade5 {background-color: @color1-shade5;}
+	.color1-shade6 {background-color: @color1-shade6;}
+	.color1-shade7 {background-color: @color1-shade7;}
+
+    .color1-shade0-fill {fill: @color1-shade0;}
+    .color1-shade1-fill {fill: @color1-shade1;}
+    .color1-shade2-fill {fill: @color1-shade2;}
+    .color1-shade3-fill {fill: @color1-shade3;}
+    .color1-shade4-fill {fill: @color1-shade4;}
+	.color1-base-fill {fill: @color1-base;}
+	.color1-shade5-fill {fill: @color1-shade5;}
+	.color1-shade6-fill {fill: @color1-shade6;}
+	.color1-shade7-fill {fill: @color1-shade7;}
+
+    .color1-shade0-stroke {stroke: @color1-shade0;}
+    .color1-shade1-stroke {stroke: @color1-shade1;}
+    .color1-shade2-stroke {stroke: @color1-shade2;}
+    .color1-shade3-stroke {stroke: @color1-shade3;}
+    .color1-shade4-stroke {stroke: @color1-shade4;}
+	.color1-base-stroke {stroke: @color1-base;}
+	.color1-shade5-stroke {stroke: @color1-shade5;}
+	.color1-shade6-stroke {stroke: @color1-shade6;}
+	.color1-shade7-stroke {stroke: @color1-shade7;}
+
+
+	.color2-base {background-color: @color2-base; line-height:100px; text-align:center; color:#fff;}
+	.color2-shade1 {background-color: @color2-shade1;}
+    .color2-shade2 {background-color: @color2-shade2;}
+    .color2-shade3 {background-color: @color2-shade3;}
+    .color2-shade4 {background-color: @color2-shade4;}
+	.color2-shade5 {background-color: @color2-shade5;}
+	.color2-shade6 {background-color: @color2-shade6;}
+	.color2-shade7 {background-color: @color2-shade7;}
+	.color2-shade8 {background-color: @color2-shade8;}
+
+	.color2-base-fill {fill: @color2-base;}
+	.color2-shade1-fill {fill: @color2-shade1;}
+    .color2-shade2-fill {fill: @color2-shade2;}
+	.color2-shade2-1-fill {fill: @color2-shade2-1;}
+    .color2-shade3-fill {fill: @color2-shade3;}
+    .color2-shade4-fill {fill: @color2-shade4;}
+	.color2-shade5-fill {fill: @color2-shade5;}
+	.color2-shade6-fill {fill: @color2-shade6;}
+	.color2-shade7-fill {fill: @color2-shade7;}
+	.color2-shade8-fill {fill: @color2-shade8;}
+
+
+    .color3-base {background-color: @color3-base; line-height:100px; text-align:center; color:#fff;}
+    .color3-shade0 {background-color: @color3-shade0;}
+    .color3-shade1 {background-color: @color3-shade1;}
+    .color3-shade2 {background-color: @color3-shade2;}
+    .color3-shade3 {background-color: @color3-shade3;}
+    .color3-shade4 {background-color: @color3-shade4;}
+	.color3-shade5 {background-color: @color3-shade5;}
+	.color3-shade6 {background-color: @color3-shade6;}
+	.color3-shade7 {background-color: @color3-shade7;}
+	.color3-shade8 {background-color: @color3-shade8;}
+
+	.color3-base-fill {fill: @color3-base; line-height:100px; text-align:center; color:#fff;}
+    .color3-shade0-fill {fill: @color3-shade0;}
+    .color3-shade1-fill {fill: @color3-shade1;}
+    .color3-shade2-fill {fill: @color3-shade2;}
+    .color3-shade3-fill {fill: @color3-shade3;}
+    .color3-shade4-fill {fill: @color3-shade4;}
+	.color3-shade5-fill {fill: @color3-shade5;}
+	.color3-shade6-fill {fill: @color3-shade6;}
+	.color3-shade7-fill {fill: @color3-shade7;}
+	.color3-shade8-fill {fill: @color3-shade8;}
+	.color3-shade9-fill {fill: @color3-shade9;}
+
+	.color3-base-fill {fill: @color3-base;}
+
+
+	.color4-base {background-color: @color4-base;}
+
+	.color4-base-fill {fill: @color4-base;}
+
+
+
+body{
+	background-color:@color3-base;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.palette-container, .svg-art-container, .svg-mockup-container, .svg-drop-area-container{
+	width: 560px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.palette-container{
+	width:610px;
+}
+
+.svg-mockup-container{
+	width: 900px;
+	height:2000px;
+}	
+
+.container-spacer{
+	height: 40px;
+}
+
+.options-container{
+	float: left;
+	position: fixed;
+	top:0px;
+	padding: 15px;
+}
+
+ul{
+	padding:0;
+	margin:-4px 0 0 0;
+	overflow:hidden;
+}
+li{ 
+	width:67px;
+	height:67px;
+	float:left;
+	list-style:none;
+}
+li .sub-box{ 
+	width:30px;
+	height:30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 22px;
+}
+
+.input-label{
+	font-size: 12px;
+	font-weight: bold;
+	margin-top:10px;
+	margin-bottom: 5px;
+	margin-left: 2px;
+	color:#777777;
+	font-family: sans-serif;
+}
+
+#svgDropArea{
+	width:600px;
+	height:600px;
+	background-color: #CCCCCC;
+	border: 10px dotted #AAAAAA;
+
+}

@@ -1,0 +1,21 @@
+/* LESS Document */
+
+@baseColor: brown;
+
+@difference: 10%;  /*Difference (in perecent) between each shade*/
+@shade1: lighten(@baseColor, (@difference * 2));
+@shade2: lighten(@baseColor, @difference);
+@shade3: @baseColor;
+@shade4: darken(@baseColor, @difference);
+@shade5: darken(@baseColor, (@difference * 2));
+
+.scheme {
+  &.shades {
+    .one {background-color: @shade1;}
+    .two {background-color: @shade2;}
+    .three {background-color: @shade3;}
+    .four {background-color: @shade4;}
+    .five {background-color: @shade5;}
+  }
+}
+body {background-color:@baseColor} 

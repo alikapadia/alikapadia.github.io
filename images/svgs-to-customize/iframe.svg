@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1720px" height="2823.3px" viewBox="0 0 1720 2823.3" enable-background="new 0 0 1720 2823.3" xml:space="preserve">
+<symbol  id="LOI_Icon" viewBox="-18.2 -17.9 36.3 36.2">
+	<path fill="#FFFFFF" d="M17.8,0L17.8,0c0,9.9-7.9,18-17.8,18.1c0,0-0.1,0.1-0.1,0.1l0,0c0,0-0.2,0-0.2,0c-9.9,0-17.9-8.2-17.9-18.2
+		l0,0l0,0c0,0,0,0,0,0c1-9.9,8-17.8,17.9-17.8c0,0,0.1,0,0.1,0l0,0c0,0,0-0.1,0-0.1C9.8-17.9,17.8-9.9,17.8,0C17.8,0,17.8,0,17.8,0
+		L17.8,0z"/>
+	
+		<use xlink:href="#New_Symbol_15"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 1 0.142 0.3221)" overflow="visible"/>
+</symbol>
+<symbol  id="New_Symbol_1" viewBox="-120 -60 240 120">
+	<g>
+		<polygon fill="#FFFFFF" points="120,-60 -120,-60 -120,60 120,60 		"/>
+	</g>
+	<g>
+		<path fill="#EC8A24" d="M38.2,17.1v6.8c0,2.9-1.9,4.9-4.8,4.9h-66.4c-2.9,0-5.7-2-5.7-4.9v-6.8V9v-32.4c0-2.9,2.8-5.5,5.7-5.5
+			h66.4c2.9,0,4.8,2.6,4.8,5.5V9V17.1z"/>
+		<g>
+			<polygon fill="#FFFFFF" points="-2.7,9.5 -28.3,9.5 -28.3,15.9 -2.7,15.9 			"/>
+			<g>
+				<polygon fill="#FFFFFF" points="29.4,-3.4 -28.3,-3.4 -28.3,3.1 29.4,3.1 				"/>
+				<polygon fill="#FFFFFF" points="22.6,-16.2 -28.6,-16.2 -28.6,-9.8 22.6,-9.8 				"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<symbol  id="New_Symbol_13" viewBox="-18 -18 36 36">
+	<g>
+		<path fill="#5A62CC" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+		<path fill="none" stroke="#1687DB" stroke-width="18" stroke-miterlimit="10" d="M13.4,4.2"/>
+		<path fill="none" stroke="#1687DB" stroke-width="18" stroke-miterlimit="10" d="M-13.6,4.2"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M9.9-8H-9.9C-10.8-8-11-7.9-11-7V3h22V-7C11-7.9,10.7-8,9.9-8z"/>
+		<path fill="#FFFFFF" d="M-9.9,9H9.9C10.7,9,11,8.1,11,7.2V6h-22v1.2C-11,8.1-10.8,9-9.9,9z"/>
+	</g>
+	<polygon display="none" fill="none" points="-18,18 18,18 18,-18 -18,-18 	"/>
+</symbol>
+<symbol  id="New_Symbol_15" viewBox="-18 -18 36 36">
+	<path fill="#BBBBBB" d="M0,18c-9.9,0-18-8.1-18-18c0-9.9,8.1-18,18-18c9.9,0,18,8.1,18,18C18,9.9,9.9,18,0,18z M4.1-7.3l-5.7,5.7
+		C-2-1.2-2.3-0.6-2.3,0v9.1h4.5V0.9l5.1-5.1L4.1-7.3z"/>
+</symbol>
+<symbol  id="New_Symbol_19" viewBox="-880 0 1760 18">
+	<polygon id="Canvas_2_" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="880,0 -880,0 -880,18 880,18 	"/>
+</symbol>
+<symbol  id="New_Symbol_3" viewBox="-762 -93 1654 187">
+	<g>
+		<g>
+			<g>
+				<path fill="#EEEEEE" d="M-756-92c-1.3,0-5,4.5-5,9V84c0,4.5,3.7,9,5,9H878c8.1,0,13-3.4,13-9V-83c0-5.6-4.9-9-13-9H-756z"/>
+				<path fill="#DDDDDD" d="M878,92c8.4,0,12-3.6,12-8V-83c0-4.4-3.6-8-12-8H-756c-0.4,0-4,3.6-4,8V84c0,4.4,3.6,8,4,8H878 M878,94
+					H-756c-2.1,0-6-5.1-6-10V-83c0-4.9,3.9-10,6-10H878c10.3,0,14,5.2,14,10V84C892,88.8,888.3,94,878,94L878,94z"/>
+			</g>
+			<path fill="#50B380" d="M-560,92.2h-191.9c-4.5,0-8.1-3.6-8.1-8.1V-82.9c0-4.4,3.5-7.9,7.9-7.9H-560c0,0,0,0,0,0L-560,92.2
+				C-560,92.2-560,92.2-560,92.2z"/>
+		</g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M-520-70c-5,0-9,4-9,9V63c0,5,4,9,9,9h244c5,0,9-4,9-9V-61c0-5-4-9-9-9H-520z"/>
+				<path fill="#DDDDDD" d="M-276,71c4.4,0,8-3.6,8-8V-61c0-4.4-3.6-8-8-8h-244c-4.4,0-8,3.6-8,8V63c0,4.4,3.6,8,8,8H-276 M-276,73
+					h-244c-5.5,0-10-4.5-10-10V-61c0-5.5,4.5-10,10-10h244c5.5,0,10,4.5,10,10V63C-266,68.5-270.5,73-276,73L-276,73z"/>
+			</g>
+			<polygon fill="#77C49C" points="-278,-58.8 -518,-58.8 -518,61.2 -278,61.2 			"/>
+		</g>
+	</g>
+</symbol>
+<symbol  id="New_Symbol_6" viewBox="-228 -194.3 599.6 66.6">
+	<polygon fill="#555555" points="-161.4,-194.3 -228,-194.3 -228,-127.8 -161.4,-127.8 	"/>
+	<polygon fill="#EEEEEE" points="305.1,-194.3 238.5,-194.3 238.5,-127.8 305.1,-127.8 	"/>
+	<polygon fill="#CCCCCC" points="171.5,-194.3 104.9,-194.3 104.9,-127.8 171.5,-127.8 	"/>
+	<polygon fill="#AAAAAA" points="38.3,-194.3 -28.3,-194.3 -28.3,-127.8 38.3,-127.8 	"/>
+	<polygon fill="#888888" points="-28.3,-194.3 -94.8,-194.3 -94.8,-127.8 -28.3,-127.8 	"/>
+	<polygon fill="#BBBBBB" points="104.9,-194.3 38.3,-194.3 38.3,-127.8 104.9,-127.8 	"/>
+	<polygon fill="#FFFFFF" points="371.6,-194.3 305.1,-194.3 305.1,-127.8 371.6,-127.8 	"/>
+	<polygon fill="#777777" points="-94.8,-194.3 -161.4,-194.3 -161.4,-127.8 -94.8,-127.8 	"/>
+	<text transform="matrix(1 0 0 -1 328.0607 -170.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">F</text>
+	<text transform="matrix(1 0 0 -1 262.4736 -170.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">E</text>
+	<text transform="matrix(1 0 0 -1 124.1035 -170.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">C</text>
+	<polygon fill="#DDDDDD" points="238,-194.3 171.4,-194.3 171.4,-127.8 238,-127.8 	"/>
+	<text transform="matrix(1 0 0 -1 191.3435 -170.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">D</text>
+	<text transform="matrix(1 0 0 -1 55.1343 -172.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">B</text>
+	<text transform="matrix(1 0 0 -1 -4.5983 -172.9533)" font-family="'HelveticaNeue-Thin'" font-size="40">A</text>
+	<g>
+		<text transform="matrix(1 0 0 -1 -72.673 -172.9533)" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="40">8</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 -1 -142.9962 -172.9533)" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="40">7</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 -1 -208.3302 -172.9533)" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="40">5</text>
+	</g>
+</symbol>
+<symbol  id="Sign_Up_Icon" viewBox="-18 -18 36 36">
+	<path fill="#EC8A24" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+	<path fill="#FFFFFF" d="M12,5.4v2.1C12,8.4,11.4,9,10.5,9h-20.7C-11.1,9-12,8.4-12,7.5V5.4V2.8V-7.3c0-0.9,0.9-1.7,1.8-1.7h20.7
+		C11.4-9,12-8.2,12-7.3V2.8V5.4z"/>
+	<g>
+		<polygon fill="#EC8A24" points="-0.9,3 -8.9,3 -8.9,5 -0.9,5 		"/>
+		<g>
+			<polygon fill="#EC8A24" points="9.1,-1 -8.9,-1 -8.9,1 9.1,1 			"/>
+			<polygon fill="#EC8A24" points="6.9,-5 -9.1,-5 -9.1,-3 6.9,-3 			"/>
+		</g>
+	</g>
+</symbol>
+<symbol  id="Sign_Up_Icon_2" viewBox="-18 -18 36 36">
+	<g>
+		<g>
+			<path fill="#EC8A24" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+			<line fill="#CBA0CA" x1="-11.7" y1="4.6" x2="10.8" y2="4.6"/>
+		</g>
+		<path fill="#FFFFFF" d="M11.8,5.4v2.1c0,0.9-0.6,1.5-1.5,1.5h-20.7c-0.9,0-1.8-0.6-1.8-1.5V5.4V2.8V-7.3c0-0.9,0.9-1.7,1.8-1.7
+			h20.7c0.9,0,1.5,0.8,1.5,1.7V2.8V5.4z"/>
+		<g>
+			<polygon fill="#EC8A24" points="-0.9,3 -8.9,3 -8.9,5 -0.9,5 			"/>
+			<g>
+				<polygon fill="#EC8A24" points="9.1,-1 -8.9,-1 -8.9,1 9.1,1 				"/>
+				<polygon fill="#EC8A24" points="7,-5 -9,-5 -9,-3 7,-3 				"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<symbol  id="download_Icon" viewBox="-18 -18 36 36">
+	<path fill="#8A5BA0" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+	<path fill="#FFFFFF" d="M-9.7,0.3c-0.4,0-0.5-0.3-0.3-0.6l9.5-11.6c0.3-0.3,0.7-0.3,1,0L9.9-0.3c0.3,0.3,0.1,0.6-0.3,0.6H-9.7z"/>
+	<path fill="#FFFFFF" d="M-1.7-1.8c-0.4,0-1.1,0-1.5,0.1c-0.4,0-0.7,0.6-0.7,1v11.5c0,0.4,0.1,0.8,0.3,0.9c0.2,0.1,1.5,0.2,1.9,0.2
+		h3.4c0.4,0,1.1,0,1.5-0.1c0.4,0,0.7-0.6,0.7-1V-0.7c0-0.4-0.1-0.8-0.3-0.9C3.4-1.7,2.1-1.8,1.7-1.8H-1.7z"/>
+</symbol>
+<symbol  id="free_Icon" viewBox="-18 -18 36 36">
+	<g>
+		<path fill="#50B380" d="M18,0c0-9.9-8-18-18-18c-9.9,0-18,8-18,18c0,9.9,8,18,18,18C9.9,18,18,9.9,18,0"/>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+		</g>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M-1.4,8.7c0.8,1.5,2,1.5,2.8,0l2.3-4.7l5.1-0.8
+		c1.7-0.3,2.1-1.5,0.8-2.7L6-2.9l1-5c0.3-1.7-0.7-2.4-2.2-1.7L0-7.2l-4.7-2.4c-1.5-0.8-2.5,0-2.2,1.7l1,5l-3.7,3.5
+		c-1.2,1.2-0.9,2.4,0.8,2.7l5.1,0.8L-1.4,8.7z"/>
+	<polygon display="none" fill="none" points="-18,18 18,18 18,-18 -18,-18 	"/>
+</symbol>
+<symbol  id="pallette_3" viewBox="-318.8 -46.5 533.1 66.6">
+	<polygon fill="#BAE1CD" points="147.2,-46.5 80.6,-46.5 80.6,20.1 147.2,20.1 	"/>
+	<polygon fill="#3F9268" points="-185.6,-46.5 -252.2,-46.5 -252.2,20.1 -185.6,20.1 	"/>
+	<polygon fill="#74C39B" points="14.1,-46.5 -52.5,-46.5 -52.5,20.1 14.1,20.1 	"/>
+	<polygon fill="#449E70" points="-119.1,-46.5 -185.6,-46.5 -185.6,20.1 -119.1,20.1 	"/>
+	<polygon fill="#50B380" points="-52.5,-46.5 -119.1,-46.5 -119.1,20.1 -52.5,20.1 	"/>
+	<polygon fill="#98D2B5" points="80.7,-46.5 14.1,-46.5 14.1,20.1 80.7,20.1 	"/>
+	<polygon fill="#DFF1E8" points="214.3,-46.5 147.7,-46.5 147.7,20.1 214.3,20.1 	"/>
+	<polygon fill="#347A57" points="-252.2,-46.5 -318.8,-46.5 -318.8,20.1 -252.2,20.1 	"/>
+</symbol>
+<symbol  id="video_Icon" viewBox="-18 -18 36 36">
+	<path fill="#E93E32" d="M18,0c0-9.9-8.1-18-18-18c-9.9,0-18,8.1-18,18s8.1,18,18,18C9.9,18,18,9.9,18,0"/>
+	<path fill="#FFFFFF" d="M-5.4-8.4c0-0.3,0.2-0.5,0.5-0.3L9.7-0.3c0.3,0.2,0.3,0.4,0,0.6L-4.9,8.7c-0.3,0.2-0.5,0-0.5-0.3V-8.4z"/>
+</symbol>
+<g>
+	<g>
+		<rect id="Canvas_6_" y="103.3" fill-rule="evenodd" clip-rule="evenodd" fill="#EEEEEE" width="1720" height="618"/>
+		<g>
+			
+				<text transform="matrix(1 0 0 1 28.001 183.846)" fill="#555555" font-family="'Montserrat-Bold'" font-size="36" letter-spacing="3">SURVEYS</text>
+			<text transform="matrix(1 0 0 1 28 229.8479)" fill="#555555" font-family="'Montserrat-Regular'" font-size="28">Earn Swag Bucks by sharing your opinions with major brands</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M344.8,282.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C354,286.9,350.3,282.9,344.8,282.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M45.3,462.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L45.3,462.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M344.8,277.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L344.8,277.9 M344.8,276.3L344.8,276.3L344.8,276.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3v163
+								c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C356,280.8,351.3,276.3,344.8,276.3L344.8,276.3z"/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_30_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 68.6167 424.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M344.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C354,281.9,350.3,277.9,344.8,277.9z"/>
+					</g>
+					<rect x="189.8" y="306.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 273.552 322.7859)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_3_" d="M344.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C354,281.9,350.3,277.9,344.8,277.9z"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_3_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 101.0645 430.5342)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<text transform="matrix(1 0 0 1 50.626 342.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+						</g>
+					</g>
+					<g>
+						<g>
+							
+								<text transform="matrix(1 0 0 1 75.626 350.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">00,000</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M677.8,282.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C687,286.9,683.3,282.9,677.8,282.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M378.3,462.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L378.3,462.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M677.8,277.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L677.8,277.9 M677.8,276.3L677.8,276.3L677.8,276.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3v163
+								c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C689,280.8,684.3,276.3,677.8,276.3L677.8,276.3z"/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_31_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 401.6168 424.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M677.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C687,281.9,683.3,277.9,677.8,277.9z"/>
+					</g>
+					<rect x="522.8" y="306.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 606.552 322.7859)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_5_" d="M677.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C687,281.9,683.3,277.9,677.8,277.9z"/>
+						</defs>
+						<clipPath id="SVGID_6_">
+							<use xlink:href="#SVGID_5_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 434.0645 430.5342)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 383.626 342.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 408.626 350.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1010.8,282.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1020,286.9,1016.3,282.9,1010.8,282.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M711.3,462.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L711.3,462.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1010.8,277.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1010.8,277.9 M1010.8,276.3L1010.8,276.3L1010.8,276.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1022,280.8,1017.3,276.3,1010.8,276.3L1010.8,276.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_32_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 734.6168 424.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1010.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1020,281.9,1016.3,277.9,1010.8,277.9z
+							"/>
+					</g>
+					<rect x="855.8" y="306.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 939.552 322.7859)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_7_" d="M1010.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1020,281.9,1016.3,277.9,1010.8,277.9z"/>
+						</defs>
+						<clipPath id="SVGID_8_">
+							<use xlink:href="#SVGID_7_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 767.0645 430.5342)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 716.626 342.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 741.626 350.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1343.8,282.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1353,286.9,1349.3,282.9,1343.8,282.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M1044.3,462.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L1044.3,462.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1343.8,277.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.3-6-11.3-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1343.8,277.9 M1343.8,276.3L1343.8,276.3L1343.8,276.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.3,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1355,280.8,1350.3,276.3,1343.8,276.3L1343.8,276.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_33_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1067.6184 424.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1343.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1353,281.9,1349.3,277.9,1343.8,277.9z
+							"/>
+					</g>
+					<rect x="1188.8" y="306.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 1272.5537 322.7859)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_9_" d="M1343.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1353,281.9,1349.3,277.9,1343.8,277.9z"/>
+						</defs>
+						<clipPath id="SVGID_10_">
+							<use xlink:href="#SVGID_9_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														
+															<text transform="matrix(1 0 0 1 1100.0662 430.5342)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 1049.6277 342.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 1074.6277 350.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1676.8,282.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1686,286.9,1682.3,282.9,1676.8,282.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M1377.3,462.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L1377.3,462.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1676.8,277.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.3-6-11.3-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1676.8,277.9 M1676.8,276.3L1676.8,276.3L1676.8,276.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.3,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1688,280.8,1683.3,276.3,1676.8,276.3L1676.8,276.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_34_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1400.6185 424.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1676.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1686,281.9,1682.3,277.9,1676.8,277.9z
+							"/>
+					</g>
+					<rect x="1521.8" y="306.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 1605.5537 322.7861)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_11_" d="M1676.8,277.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1686,281.9,1682.3,277.9,1676.8,277.9z"/>
+						</defs>
+						<clipPath id="SVGID_12_">
+							<use xlink:href="#SVGID_11_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														
+															<text transform="matrix(1 0 0 1 1433.0662 430.5342)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 1382.6277 342.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 1407.6277 350.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M344.8,511.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C354,515.9,350.3,511.9,344.8,511.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M45.3,691.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L45.3,691.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M344.8,506.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L344.8,506.9 M344.8,505.3L344.8,505.3L344.8,505.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3v163
+								c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C356,509.8,351.3,505.3,344.8,505.3L344.8,505.3z"/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_35_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 68.6167 653.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M344.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C354,510.9,350.3,506.9,344.8,506.9z"/>
+					</g>
+					<rect x="189.8" y="535.5" fill="#50B380" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 273.552 551.7861)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_13_" d="M344.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C354,510.9,350.3,506.9,344.8,506.9z"/>
+						</defs>
+						<clipPath id="SVGID_14_">
+							<use xlink:href="#SVGID_13_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 101.0645 659.534)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 50.626 571.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 75.626 579.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M677.8,511.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C687,515.9,683.3,511.9,677.8,511.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M378.3,691.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L378.3,691.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M677.8,506.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L677.8,506.9 M677.8,505.3L677.8,505.3L677.8,505.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3v163
+								c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C689,509.8,684.3,505.3,677.8,505.3L677.8,505.3z"/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_29_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 401.6168 653.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M677.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C687,510.9,683.3,506.9,677.8,506.9z"/>
+					</g>
+					<rect x="522.8" y="535.5" fill="#50B380" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 606.552 551.7861)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_15_" d="M677.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C687,510.9,683.3,506.9,677.8,506.9z"/>
+						</defs>
+						<clipPath id="SVGID_16_">
+							<use xlink:href="#SVGID_15_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 434.0645 659.534)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 383.626 571.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 408.626 579.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1010.8,511.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1020,515.9,1016.3,511.9,1010.8,511.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M711.3,691.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L711.3,691.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1010.8,506.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.2-6-11.2-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1010.8,506.9 M1010.8,505.3L1010.8,505.3L1010.8,505.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.2,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1022,509.8,1017.3,505.3,1010.8,505.3L1010.8,505.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_28_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 734.6168 653.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1010.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1020,510.9,1016.3,506.9,1010.8,506.9z
+							"/>
+					</g>
+					<rect x="855.8" y="535.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 939.552 551.7861)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_17_" d="M1010.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1020,510.9,1016.3,506.9,1010.8,506.9z"/>
+						</defs>
+						<clipPath id="SVGID_18_">
+							<use xlink:href="#SVGID_17_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 767.0645 659.534)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 716.626 571.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 741.626 579.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1343.8,511.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1353,515.9,1349.3,511.9,1343.8,511.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M1044.3,691.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L1044.3,691.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1343.8,506.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.3-6-11.3-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1343.8,506.9 M1343.8,505.3L1343.8,505.3L1343.8,505.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.3,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1355,509.8,1350.3,505.3,1343.8,505.3L1343.8,505.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_27_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1067.6184 653.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1343.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1353,510.9,1349.3,506.9,1343.8,506.9z
+							"/>
+					</g>
+					<rect x="1188.8" y="535.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 1272.5537 551.7861)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_19_" d="M1343.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1353,510.9,1349.3,506.9,1343.8,506.9z"/>
+						</defs>
+						<clipPath id="SVGID_20_">
+							<use xlink:href="#SVGID_19_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 1100.0662 659.534)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 1049.6277 571.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 1074.6277 579.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#CCCCCC" d="M1676.8,511.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+						c5.5,0,9.4-5,9.4-10.5v-163C1686,515.9,1682.3,511.9,1676.8,511.9z"/>
+					<g>
+						<path fill="#F8F8F8" d="M1377.3,691.9c-6.1,0-12.3-6.3-12.3-12.5v-163c0-6.2,6.1-9.5,12.1-9.5l299.6-1c6,0,10.3,4.3,10.3,10.5
+							v163c0,6.4-4.6,11.5-10.4,11.5L1377.3,691.9z"/>
+						<g>
+							<path fill="#DDDDDD" d="M1676.8,506.9c5.5,0,9.2,4,9.2,9.5v163c0,5.5-3.9,10.5-9.4,10.5l-299.4,1c-5.5,0-11.3-6-11.3-11.5
+								v-163c0-5.5,5.6-8.5,11.1-8.5L1676.8,506.9 M1676.8,505.3L1676.8,505.3L1676.8,505.3l-299.6,0.8c-6.4,0-13.1,3.5-13.1,10.3
+								v163c0,6.7,6.7,13.5,13.3,13.5l299.4-1c6.4,0,11.4-5.5,11.4-12.5v-163C1688,509.8,1683.3,505.3,1676.8,505.3L1676.8,505.3z"
+								/>
+						</g>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" id="XMLID_26_" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1400.6185 653.1)" overflow="visible"/>
+					<g>
+						<path fill="#50B380" d="M1676.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v97.9h320v-97.9C1686,510.9,1682.3,506.9,1676.8,506.9z
+							"/>
+					</g>
+					<rect x="1521.8" y="535.5" fill="none" width="146" height="48.2"/>
+					<text transform="matrix(1 0 0 1 1605.5537 551.7862)"><tspan x="0" y="0" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag</tspan><tspan x="-5.2" y="30" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Bucks</tspan></text>
+					<g>
+						<defs>
+							<path id="SVGID_21_" d="M1676.8,506.9l-299.6,1c-5.5,0-11.1,3-11.1,8.5v163c0,5.5,5.7,11.5,11.3,11.5l299.4-1
+								c5.5,0,9.4-5,9.4-10.5v-163C1686,510.9,1682.3,506.9,1676.8,506.9z"/>
+						</defs>
+						<clipPath id="SVGID_22_">
+							<use xlink:href="#SVGID_21_"  overflow="visible"/>
+						</clipPath>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 1433.0662 659.534)" fill="#888888" font-family="'Montserrat-Bold'" font-size="22">12 Min Survey</text>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g>
+											<g>
+												<g>
+													<text transform="matrix(1 0 0 1 1382.6277 571.5352)" fill="#BBE1CD" font-family="'FontAwesome'" font-size="28"></text>
+												</g>
+											</g>
+											<g>
+												<g>
+													
+														<text transform="matrix(1 0 0 1 1407.6277 579.6724)" fill="#F8FCFA" font-family="'BebasNeue'" font-size="60" letter-spacing="1">0,000</text>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<rect y="0" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1720" height="98"/>
+		<g>
+			<g>
+				<rect y="98" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="1720" height="2"/>
+			</g>
+			<g>
+				<rect y="99" fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" width="1720" height="4"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#50B380" d="M140.2,23.2c-13.9,0-15.6,5.3-40.6,5.3c-25,0-26.7-5.3-40.6-5.3c-13.9,0-29,11.3-29,26.8
+			c0,15.5,15.1,26.8,29,26.8c13.9,0,15.6-5.3,40.6-5.3c25,0,26.7,5.3,40.6,5.3c13.9,0,29-11.3,29-26.8
+			C169.1,34.5,154,23.2,140.2,23.2z"/>
+		<g>
+			<path fill="#FFFFFF" d="M94.1,49.3c0,0.9,0,1.6-0.1,2c-0.1,0.4-0.3,0.7-0.6,1c-0.3,0.3-0.8,0.4-1.5,0.4c-0.7,0-1.2-0.1-1.6-0.4
+				c-0.4-0.3-0.6-0.7-0.7-1.2c-0.1-0.3-0.1-1-0.1-2v-6.4h-2.4v6.3c0,1.3,0.1,2.3,0.2,3c0.1,0.5,0.3,0.9,0.7,1.3
+				c0.3,0.4,0.8,0.8,1.4,1c0.6,0.3,1.4,0.4,2.5,0.4c0.9,0,1.7-0.1,2.2-0.4c0.6-0.2,1-0.6,1.4-1c0.3-0.4,0.6-0.9,0.7-1.5
+				c0.1-0.6,0.2-1.6,0.2-3v-6.2h-2.4V49.3z"/>
+			<polygon fill="#FFFFFF" points="81.4,50.7 76.6,42.8 74.3,42.8 74.3,54.6 76.5,54.6 76.5,46.9 81.2,54.6 83.6,54.6 83.6,42.8 
+				81.4,42.8 			"/>
+			<polygon fill="#FFFFFF" points="99.2,44.8 102.7,44.8 102.7,54.6 105.1,54.6 105.1,44.8 108.5,44.8 108.5,42.8 99.2,42.8 			"/>
+			<path fill="#FFFFFF" d="M64.9,42.8l-4.6,11.8h2.5l1-2.7h4.7l1,2.7H72l-4.7-11.8H64.9z M64.5,49.9l1.6-4.4l1.6,4.4H64.5z"/>
+			<path fill="#FFFFFF" d="M44,43c-0.4-0.1-1.4-0.2-2.8-0.2h-3.8v11.8h2.4v-4.5h1.5c1.1,0,1.9-0.1,2.4-0.2c0.4-0.1,0.8-0.3,1.2-0.6
+				c0.4-0.3,0.7-0.7,1-1.2c0.3-0.5,0.4-1.1,0.4-1.8c0-0.9-0.2-1.7-0.7-2.3C45.2,43.5,44.7,43.1,44,43z M43.7,47.4
+				c-0.2,0.3-0.4,0.5-0.7,0.6c-0.3,0.1-0.9,0.2-1.9,0.2h-1.3v-3.4h1.1c0.9,0,1.4,0,1.7,0.1c0.4,0.1,0.7,0.2,0.9,0.5
+				c0.2,0.3,0.4,0.6,0.4,1.1C43.9,46.8,43.8,47.1,43.7,47.4z"/>
+			<polygon fill="#FFFFFF" points="119,42.9 116.7,42.9 116.7,54.6 124.9,54.6 124.9,52.6 119,52.6 			"/>
+			<polygon fill="#FFFFFF" points="51.8,49.4 57.7,49.4 57.7,47.4 51.8,47.4 51.8,44.8 58.1,44.8 58.1,42.8 49.4,42.8 49.4,54.6 
+				58.3,54.6 58.3,52.6 51.8,52.6 			"/>
+			<path fill="#FFFFFF" d="M131,42.8l-4.6,11.8h2.5l1-2.7h4.7l1,2.7h2.6l-4.7-11.8H131z M130.7,49.9l1.6-4.4l1.6,4.4H130.7z"/>
+			<path fill="#FFFFFF" d="M155.9,45c0.4-0.3,0.9-0.4,1.6-0.4c0.7,0,1.2,0.1,1.5,0.4c0.3,0.3,0.5,0.7,0.7,1.3l2.4-0.1
+				c0-1.1-0.4-2-1.2-2.6c-0.7-0.6-1.8-1-3.3-1c-0.9,0-1.7,0.1-2.3,0.4c-0.6,0.3-1.1,0.7-1.5,1.2c-0.3,0.5-0.5,1.1-0.5,1.7
+				c0,0.9,0.4,1.7,1.1,2.4c0.5,0.5,1.4,0.9,2.7,1.2c1,0.2,1.6,0.4,1.9,0.5c0.4,0.1,0.7,0.3,0.8,0.5c0.2,0.2,0.2,0.4,0.2,0.7
+				c0,0.4-0.2,0.8-0.6,1.1c-0.4,0.3-1,0.5-1.7,0.5c-0.7,0-1.3-0.2-1.7-0.5c-0.4-0.4-0.7-0.9-0.8-1.7l-2.3,0.2c0.2,1.3,0.6,2.3,1.4,3
+				c0.8,0.7,1.9,1,3.4,1c1,0,1.9-0.1,2.5-0.4c0.7-0.3,1.2-0.7,1.6-1.3c0.4-0.6,0.6-1.2,0.6-1.9c0-0.7-0.2-1.4-0.5-1.9
+				c-0.3-0.5-0.7-0.9-1.3-1.2c-0.6-0.3-1.4-0.6-2.5-0.8c-1.1-0.3-1.9-0.5-2.2-0.8c-0.2-0.2-0.4-0.4-0.4-0.7
+				C155.5,45.4,155.7,45.2,155.9,45z"/>
+			<path fill="#FFFFFF" d="M148.1,48.3c0.5-0.2,0.9-0.6,1.2-1c0.3-0.5,0.4-1,0.4-1.5c0-0.5-0.1-1-0.4-1.4c-0.2-0.4-0.5-0.7-0.9-1
+				c-0.4-0.2-0.8-0.4-1.2-0.5c-0.5-0.1-1.1-0.1-2.1-0.1h-4.7v11.8h4c1.5,0,2.5,0,2.8-0.1c0.6-0.1,1.2-0.3,1.6-0.6
+				c0.4-0.3,0.8-0.7,1-1.2c0.2-0.5,0.4-1,0.4-1.6c0-0.7-0.2-1.3-0.6-1.8C149.4,48.9,148.9,48.5,148.1,48.3z M142.9,44.8h1.4
+				c1.1,0,1.8,0,2,0c0.4,0,0.7,0.2,0.9,0.4c0.2,0.2,0.3,0.5,0.3,0.9c0,0.4-0.1,0.7-0.3,0.9c-0.2,0.2-0.5,0.4-1,0.4
+				c-0.2,0-0.8,0-1.7,0h-1.5V44.8z M147.6,52.1c-0.2,0.2-0.5,0.4-0.9,0.5c-0.2,0-0.8,0.1-1.6,0.1h-2.2v-3.2h1.9
+				c1.1,0,1.8,0.1,2.1,0.2c0.3,0.1,0.6,0.3,0.7,0.5c0.2,0.2,0.3,0.5,0.3,0.9C147.9,51.5,147.8,51.8,147.6,52.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 1591.5547 58.5499)" fill="#555555" font-family="'Montserrat-Regular'" font-size="24">Settings</text>
+		</g>
+		<g>
+			<rect x="1533.9" y="27.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="48" height="48"/>
+			<text transform="matrix(1 0 0 1 1543.4889 61.5482)" fill="#777777" font-family="'FontAwesome'" font-size="32"></text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 1360.4985 58.5499)" fill="#555555" font-family="'Montserrat-Regular'" font-size="24">Transactions</text>
+			<rect x="1303.9" y="27.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="48" height="48"/>
+			<text transform="matrix(1 0 0 1 1313.4318 61.5479)" fill="#777777" font-family="'FontAwesome'" font-size="32"></text>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g display="none">
+			<g display="inline">
+				<path fill="#CCCCCC" d="M3385,1699.3v-38h-110.7c-1.8,0-3.3,1.2-3.3,2.8v32.1c0,1.6,1.5,3.1,3.3,3.1H3385z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="_x5C_">
+</g>
+<g>
+	<g>
+		<polyline id="Points_3_" fill-rule="evenodd" clip-rule="evenodd" fill="#F8F8F8" points="-2,738.3 1720,738.3 1720,2823.3 
+			-2,2823.3 		"/>
+	</g>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 29.3901 809.4354)" fill="#555555" font-family="'Montserrat-Bold'" font-size="36" letter-spacing="3">OFFERS</text>
+		<text transform="matrix(1 0 0 1 29.3906 859.4346)" fill="#555555" font-family="'Montserrat-Regular'" font-size="28">Earn Swag Bucks by engaging with brands and advertisers.</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path fill-rule="evenodd" clip-rule="evenodd" fill="#50B380" d="M1686,970.2c0,4.5-3.6,8.1-8.1,8.1h-296.9
+							c-4.5,0-8.1-3.6-8.1-8.1v-43.9c0-4.5,3.6-8.1,8.1-8.1h296.9c4.5,0,8.1,3.6,8.1,8.1V970.2z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		
+			<text transform="matrix(1 0 0 1 1387.9775 954.6216)" fill="#FFFFFF" font-family="'Montserrat-Bold'" font-size="22" letter-spacing="1">Recommended</text>
+		
+			<text transform="matrix(1 0 0 1 1255.4609 955.5938)" fill="#AAAAAA" font-family="'Montserrat-Regular'" font-size="24.3" letter-spacing="1">Sort by:</text>
+		<g>
+			<path fill="#FFFFFF" d="M1660.5,953.7c-0.5,0-1-0.2-1.4-0.6l-7.5-7.5c-0.8-0.8-0.8-2,0-2.7c0.8-0.8,2-0.8,2.7,0l6.1,6.1l6.1-6.1
+				c0.8-0.8,2-0.8,2.7,0c0.8,0.8,0.8,2,0,2.7l-7.5,7.5C1661.5,953.5,1661,953.7,1660.5,953.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCF0E6" d="M293,972.3c0,4.4-3.6,8-8,8H178c-4.4,0-8-3.6-8-8v-44
+				c0-4.4,3.6-8,8-8h107c4.4,0,8,3.6,8,8V972.3z"/>
+			
+				<text transform="matrix(1 0 0 1 205.749 958.4647)" fill="#50B380" font-family="'Montserrat-Bold'" font-size="22" letter-spacing="1">Free</text>
+		</g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCF0E6" d="M488,972.3c0,4.4-3.6,8-8,8H321c-4.4,0-8-3.6-8-8v-44
+				c0-4.4,3.6-8,8-8h159c4.4,0,8,3.6,8,8V972.3z"/>
+			
+				<text transform="matrix(1 0 0 1 340.772 956.4644)" fill="#50B380" font-family="'Montserrat-Bold'" font-size="22" letter-spacing="1">Download</text>
+		</g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#DCF0E6" d="M659,972.3c0,4.4-3.6,8-8,8H516c-4.4,0-8-3.6-8-8v-44
+				c0-4.4,3.6-8,8-8h135c4.4,0,8,3.6,8,8V972.3z"/>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 543.5312 956.4644)" fill="#50B380" font-family="'Montserrat-Bold'" font-size="22" letter-spacing="1">Videos</text>
+			</g>
+		</g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#50B380" d="M150,972.3c0,4.4-3.6,8-8,8H40c-4.4,0-8-3.6-8-8v-44
+				c0-4.4,3.6-8,8-8h102c4.4,0,8,3.6,8,8V972.3z"/>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 61.9717 956.4644)" fill="#FFFFFF" font-family="'Montserrat-Bold'" font-size="22" letter-spacing="1">All</text>
+				<g>
+					<g>
+						
+							<text transform="matrix(1 0 0 1 101.1382 957.2413)" fill="#FFFFFF" font-family="'FontAwesome'" font-size="20" letter-spacing="1"></text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<use xlink:href="#New_Symbol_19"  width="1760" height="18" id="XMLID_24_" x="-880" transform="matrix(0.9784 0 0 -1 859.4946 739.3099)" overflow="visible"/>
+</g>
+<g>
+	
+		<use xlink:href="#New_Symbol_3"  width="1654" height="187" id="XMLID_37_" x="-762" y="-93" transform="matrix(1 0 0 -1 793.5 1113.87)" overflow="visible"/>
+	<g>
+		<g>
+			<rect x="546.9" y="1122.3" fill="none" width="967.6" height="77.1"/>
+			<text transform="matrix(1 0 0 1 546.9133 1143.0297)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Click to take a survey to see if you or anyone you know is diabetic.</text>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 599.3901 1086.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+				
+					<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 1076.3099)" overflow="visible"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 742.3901 1086.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Application</text>
+				
+					<use xlink:href="#Sign_Up_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 709.3901 1077.2715)" overflow="visible"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1061.3901 1086.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 15 Min.</text>
+				
+					<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1028.4988 1077.2185)" overflow="visible"/>
+			</g>
+		</g>
+	</g>
+	
+		<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,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" transform="matrix(2 0 0 2 275.3549 1052.87)">
+	</image>
+	<g>
+		<path fill="none" d="M233,1021.3H45.7c-6.7,0-12.7,5.7-12.7,12.4v159.8c0,6.6,5.9,11.8,12.5,11.8H233V1021.3z"/>
+		
+			<text transform="matrix(1 0 0 1 82.9806 1121.3098)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="60" letter-spacing="1">+807</text>
+		<text transform="matrix(1 0 0 1 64.8886 1158.5157)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<use xlink:href="#New_Symbol_3"  width="1654" height="187" id="XMLID_36_" x="-762" y="-93" transform="matrix(1 0 0 -1 793.5 1330.87)" overflow="visible"/>
+		<g>
+			<g>
+				<rect x="546.9" y="1339.3" fill="none" width="1116.1" height="77.1"/>
+				<text transform="matrix(1 0 0 1 546.9133 1360.0298)"><tspan x="0" y="0" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Bing Rewards is a great new way to get rewarded for all that you do on the </tspan><tspan x="0" y="33.6" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">web. Watch our video to learn more!</tspan></text>
+			</g>
+			<g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 599.3901 1302.6835)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+					</g>
+					
+						<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 1293.3099)" overflow="visible"/>
+				</g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 732.3901 1302.6835)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Video</text>
+					</g>
+					
+						<use xlink:href="#video_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 699.4988 1293.0913)" overflow="visible"/>
+				</g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 893.3901 1302.6835)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 15 Min.</text>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 860.4988 1293.0913)" overflow="visible"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<path fill="none" d="M237,1241.3H45.7c-6.7,0-12.7,5-12.7,11.7v159.8c0,6.6,5.9,12.4,12.5,12.4H237V1241.3z"/>
+			
+				<text transform="matrix(1 0 0 1 91.6884 1340.6564)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+57</text>
+			<text transform="matrix(1 0 0 1 65.4001 1377.8622)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+		</g>
+	</g>
+	
+		<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEAJAAkAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAHMAAACNgAAA5r/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAD0AeQMBIgACEQEDEQH/
+xACIAAEBAQEBAQEBAAAAAAAAAAAABAEFAgMGBwEBAAAAAAAAAAAAAAAAAAAAABAAAQQBBQADAAAA
+AAAAAAAAAwECBAURACBQEwYwEhURAAICAQQBAgMJAQAAAAAAAAECEQMAITESBEEiE1BxUiBAUWGh
+MkJyFAUSAQAAAAAAAAAAAAAAAAAAAFD/2gAMAwEAAhEDEQAAAP6AAAAAAAABm4Zv5LpHb3lejpub
+9ixD7K8jwt2OwAZuH5i7siD3aONbWJvNgg+tQlqAAAAAAAAAD//aAAgBAgABBQDgP//aAAgBAwAB
+BQDgP//aAAgBAQABBQDgke1V1n4M7gqVnra30rJcslicEttngiW7SNSe10VbMaP/AEA/Z9i0byzS
+9ceW4j9i6tKW4Wxp/NRK1x6vuKOsEM8iC+NqLDUcMcLqKytExUq2ohYTnqkJENtxswmscT//2gAI
+AQICBj8AA//aAAgBAwIGPwAD/9oACAEBAQY/APgRCkErowBkj5/cO+1ADWiolEJhWYBYBwdDsdaz
+q9zUFGhlkb67jO2rVvdRRwZivEe2pWWOsFvxjDXWtnYeyxlrWEUDiA0TpprucQ0UWWOyGyxBANag
+kGZMTI0GVdlEdvfgJXoGlhOvgYRxlZKyGUnmP48ZnxjKAxKhG8a8zAA/PHSxCOClhDKxIXf0gyDj
++3S3NULMJX0AiV+Z8xgq4yVUGx5A1In9u/2rb/8AmsiDtwLb542VqBHGfp/rrg7Dsex3PNzeJ34r
+ltg7FladgKLq14wwURAJEifOLerNKszhdI9YAj9MX/J77OyshNfAhgxLBW5xEE7jOtRYfXQFJjyw
+EYXRhwJLcCqky2/q3jKyGY+0zOAY15eDpsPGEGxisMFAAGjfUQNTjFLWrFi8LAADIiJE7HK7C5K0
+iEWADtGrbkfFP//Z" transform="matrix(2 0 0 2 275.5 1269.514)">
+	</image>
+</g>
+<g>
+	<g>
+		
+			<use xlink:href="#New_Symbol_3"  width="1654" height="187" x="-762" y="-93" transform="matrix(1 0 0 -1 793.5 1548.8699)" overflow="visible"/>
+		<g>
+			<path fill="none" d="M237,1459.3H45.7c-6.7,0-12.7,5-12.7,11.7v159.8c0,6.6,5.9,12.4,12.5,12.4H237V1459.3z"/>
+			
+				<text transform="matrix(1 0 0 1 77.7511 1558.6562)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+120</text>
+			<text transform="matrix(1 0 0 1 65.4001 1595.8622)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+		</g>
+		<g>
+			<g>
+				<rect x="547" y="1557.2" fill="none" width="1114.5" height="51.4"/>
+				<text transform="matrix(1 0 0 1 546.9761 1577.9635)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod </text>
+			</g>
+			<g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 599.3901 1521.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+					</g>
+					
+						<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 1511.3099)" overflow="visible"/>
+				</g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 742.3901 1521.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Application</text>
+					</g>
+					
+						<use xlink:href="#Sign_Up_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 709.3901 1512.2715)" overflow="visible"/>
+				</g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 1061.3901 1521.8104)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 15 Min.</text>
+					</g>
+					
+						<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1028.4988 1512.2185)" overflow="visible"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,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
+4/AVt4OpMxbbqzrA4Tzd7ea4p5Nux6gVV6hN2AP6r+Nfjpdtu5Nyd2wWaJm1Bg1rsPnX5PVI52zy
+PCjXP8bg6lt4YUu4WRuudvG3UBOq5K3N6/BokxPVQmQA31eXNqVPyU03Xkd+m6uGhlGNlIHh2ye4
+fXsHvb69s0Bhuk7F5CSSxJ/yzqZTFqG4VUkuxNwnD34VGZY3YxII0PUcHSMsjX2jIGg06NDY+X41
+9xBGeoOAsxbT+3VW4jaK6bp+pMLnFvEeFDZBAduqdMIcRpGFq68ER6mIUsxbSD/11ZV93FEeqCSt
+2JCk52By7ZPcPr2D3t9ewmMlSzBSRnY3pwkhDLY2JOIJtXT6vmsxzOQNh86jK7kEyXws2Gni+VX2
+8/VUMFJFxa/fjT6JP9b6DifnQUzgSkaunjwXte9NI8tlUMSbn9Jw+dcR+ZpZTJrja1mBIsTjlUby
+HU2IufYbdknuH17B72+vYY4+MMGA8bd1F4oSCQVOK5H41cRkGwF/LkvxpHENihZhbT+rPvq6waQG
+DALpGK/GiY4iNT6ziudreNGIw4HDV5dVs7XvTRvEdLWvivd8a/0H5r/zQE0bELgBdQB8AaSF+IXJ
+t7Tfsk9w+vZ/Cx0XNvKvj7WriPKnqriPKnqriPKnqriPKnqriPKnqriPKnqriPKnqriPKnqriPKn
+qriPKnqriPKnqriPKnqriPKnqpuqx6ff5V/s1Zmv/9k=" transform="matrix(2 0 0 2 275.3549 1487.8699)">
+	</image>
+</g>
+<g>
+	<g>
+		<polyline fill="#367A57" points="1707,1524.3 1707,1481.3 1716,1481.3 1716,1515.3 		"/>
+	</g>
+	<g display="none">
+		<g display="inline">
+			<path fill="#CCCCCC" d="M1714,1518.3v-38h-110.2c-1.8,0-3.8,1.2-3.8,2.8v32.1c0,1.6,2,3.1,3.8,3.1H1714z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#DDDDDD" d="M1705.5,1481.2v16.3h-184.3l0.9,1.9l-7.6,16.8c0,1.6,1.4,3,3.1,3H1706v-38H1705.5z"/>
+		<g>
+			<path fill="#DDDDDD" d="M1705,1481.3h-187.4c-1.7,0-3.1,1.2-3.1,1.8l6.7,14.2H1705V1481.3z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#BBE1CD" d="M1716,1516.3v-38h-195.2c-1.8,0-3.3,1.3-3.3,2.9l8,16.3l-8,15.8c0,1.6,1.5,3,3.3,3H1716z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 1534.2222 1504.7773)" fill="#429369" font-family="'Montserrat-Bold'" font-size="20">Opened 2m ago</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<use xlink:href="#New_Symbol_3"  width="1654" height="187" x="-762" y="-93" transform="matrix(1 0 0 -1 793.5 1766.8699)" overflow="visible"/>
+	
+		<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,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" transform="matrix(2 0 0 2 275.3549 1705.8699)">
+	</image>
+	<g>
+		<g>
+			<rect x="546.9" y="1775.3" fill="none" width="967.6" height="77.1"/>
+			<text transform="matrix(1 0 0 1 546.9133 1796.0297)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Download our easy clean app and get 50% of your next purchase.</text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 599.3901 1738.8085)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+				</g>
+				
+					<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 1729.3099)" overflow="visible"/>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 741.3901 1738.8085)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Download</text>
+				</g>
+			</g>
+			
+				<use xlink:href="#download_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 708.0113 1729.5553)" overflow="visible"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" d="M237,1677.3H45.7c-6.7,0-12.7,5-12.7,11.7v159.8c0,6.6,5.9,12.4,12.5,12.4H237V1677.3z"/>
+		
+			<text transform="matrix(1 0 0 1 91.6884 1776.6562)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+45</text>
+		<text transform="matrix(1 0 0 1 65.4001 1813.8622)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+	</g>
+</g>
+<g>
+	
+		<use xlink:href="#New_Symbol_3"  width="1654" height="187" id="XMLID_1_" x="-762" y="-93" transform="matrix(1 0 0 -1 794.5 1984.8699)" overflow="visible"/>
+	<g>
+		<g>
+			<rect x="546.9" y="1993.3" fill="none" width="967.6" height="77.1"/>
+			<text transform="matrix(1 0 0 1 546.9133 2014.0299)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Click to take a survey to see if you or anyone you know is diabetic.</text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 599.3901 1956.8085)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+				</g>
+				
+					<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 1947.3099)" overflow="visible"/>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 742.3901 1956.8085)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Mobile</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#B995C5" d="M727.4,1947c0,9.9-8.1,18-18,18c-9.9,0-18-8.1-18-18c0-9.9,8.1-18,18-18
+					C719.3,1929,727.4,1937,727.4,1947"/>
+				<path fill="#FFFFFF" d="M717,1959.5c0,0.4-0.3,0.8-0.8,0.8h-14.5c-0.4,0-0.8-0.3-0.8-0.8v-24.5c0-0.4,0.3-0.8,0.8-0.8h14.5
+					c0.4,0,0.8,0.3,0.8,0.8V1959.5z"/>
+				<rect x="703" y="1939.3" fill="#B995C5" width="12" height="16"/>
+				<path fill="#B995C5" d="M711,1957.2c0,0.9-0.7,1.6-1.6,1.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6
+					C710.3,1955.6,711,1956.3,711,1957.2"/>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 919.3901 1956.8085)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 15 Min.</text>
+				</g>
+				
+					<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 886.4988 1947.2164)" overflow="visible"/>
+			</g>
+		</g>
+	</g>
+	
+		<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,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
+9KeW75YXo7NjO3bpbrnSnsf/2Q==" transform="matrix(2 0 0 2 276.3549 1923.8699)">
+	</image>
+	<g>
+		<path fill="none" d="M236,1895.3H44.7c-6.7,0-12.7,5-12.7,11.7v159.8c0,6.6,5.9,12.4,12.5,12.4H236V1895.3z"/>
+		
+			<text transform="matrix(1 0 0 1 106.6256 1994.6566)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+2</text>
+		<text transform="matrix(1 0 0 1 66.4001 2031.8622)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			
+				<use xlink:href="#New_Symbol_3"  width="1654" height="187" x="-762" y="-93" transform="matrix(1 0 0 -1 794.5 2202.8699)" overflow="visible"/>
+			<g>
+				<g>
+					<g>
+						<rect x="546.9" y="2211.3" fill="none" width="1115.1" height="50.6"/>
+						<text transform="matrix(1 0 0 1 546.9133 2232.0295)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod </text>
+					</g>
+				</g>
+			</g>
+			<g>
+				<path fill="none" d="M236,2109.3H44.7c-6.7,0-12.7,5-12.7,11.7v159.8c0,6.6,5.9,12.4,12.5,12.4H236V2109.3z"/>
+				
+					<text transform="matrix(1 0 0 1 92.6884 2208.6565)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+10</text>
+				<text transform="matrix(1 0 0 1 66.4001 2245.8623)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+			</g>
+		</g>
+		
+			<image overflow="visible" width="120" height="60" xlink:href="data:image/jpeg;base64,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" transform="matrix(2 0 0 2 276.3549 2141.8699)">
+		</image>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 599.3901 2175.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+				
+					<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 2164.3098)" overflow="visible"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 740.3901 2175.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Required</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1025.0645 2175.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Application</text>
+				
+					<use xlink:href="#Sign_Up_Icon_2"  width="36" height="36" id="XMLID_3_" x="-18" y="-18" transform="matrix(1 0 0 -1 992.0645 2165.7307)" overflow="visible"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1342.5352 2175.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 59m.</text>
+				
+					<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 1309.6439 2165.6777)" overflow="visible"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#FFFFFF" d="M719.4,2172.3h-19.8c-0.9,0-1.6,0.3-1.6-0.5v-10.5h22v10.5C720,2172.7,720.2,2172.3,719.4,2172.3z"/>
+					<path fill="#FFFFFF" d="M699.6,2155.3h19.8c0.9,0,0.6,1.4,0.6,2.2v0.8h-22v-0.8C698,2156.7,698.7,2155.3,699.6,2155.3z"/>
+				</g>
+			</g>
+		</g>
+		
+			<use xlink:href="#New_Symbol_13"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 710 2165.3098)" overflow="visible"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#EEEEEE" d="M38.5,2547.9c-1.3,0-5-4.5-5-9v-203c0-4.5,3.7-9,5-9h1633c8.1,0,13,3.4,13,9v203c0,5.6-4.9,9-13,9H38.5z"
+				/>
+			<path fill="#DDDDDD" d="M1671.5,2327.9c8.4,0,12,3.6,12,8v203c0,4.4-3.6,8-12,8H38.5c-0.4,0-4-3.6-4-8v-203c0-4.4,3.6-8,4-8
+				H1671.5 M1671.5,2325.9H38.5c-2.1,0-6,5.1-6,10v203c0,4.9,3.9,10,6,10h1633c10.3,0,14-5.2,14-10v-203
+				C1685.5,2331,1681.8,2325.9,1671.5,2325.9L1671.5,2325.9z"/>
+		</g>
+		<path fill="#50B380" d="M234.5,2327.7H42.6c-4.5,0-8.1,3.6-8.1,8.1v203.1c0,4.4,3.5,7.9,7.9,7.9h192.1c0,0,0,0,0,0L234.5,2327.7
+			C234.5,2327.7,234.5,2327.7,234.5,2327.7z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<path fill="#FFFFFF" d="M274.5,2489.9c-5,0-9-4-9-9v-124c0-5,4-9,9-9h244c5,0,9,4,9,9v124c0,5-4,9-9,9H274.5z"/>
+								<path fill="#DDDDDD" d="M518.5,2348.9c4.4,0,8,3.6,8,8v124c0,4.4-3.6,8-8,8h-244c-4.4,0-8-3.6-8-8v-124c0-4.4,3.6-8,8-8
+									H518.5 M518.5,2346.9h-244c-5.5,0-10,4.5-10,10v124c0,5.5,4.5,10,10,10h244c5.5,0,10-4.5,10-10v-124
+									C528.5,2351.4,524,2346.9,518.5,2346.9L518.5,2346.9z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<g>
+							<rect x="551" y="2467.3" fill="none" width="1112.5" height="50.6"/>
+							<text transform="matrix(1 0 0 1 551.021 2488.0298)" fill="#555555" font-family="'Montserrat-Bold'" font-size="28">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod </text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 599.3901 2392.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Free</text>
+					<g>
+						<text transform="matrix(1 0 0 1 601.5708 2443.4758)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Rewards In 59m.</text>
+						
+							<use xlink:href="#LOI_Icon"  width="36.3" height="36.2" x="-18.2" y="-17.9" transform="matrix(1 0 0 -1 568.6792 2433.884)" overflow="visible"/>
+					</g>
+					
+						<use xlink:href="#free_Icon"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 569 2381.3098)" overflow="visible"/>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 740.3901 2392.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Required</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 1025.0645 2392.2698)" fill="#AAAAAA" font-family="'Montserrat-Bold'" font-size="28">Card Application</text>
+					
+						<use xlink:href="#Sign_Up_Icon_2"  width="36" height="36" id="XMLID_2_" x="-18" y="-18" transform="matrix(1 0 0 -1 992.0645 2382.7307)" overflow="visible"/>
+				</g>
+				<g>
+					<g>
+						<path fill="#FFFFFF" d="M719.4,2389.3h-19.8c-0.9,0-1.6,0.3-1.6-0.5v-10.5h22v10.5C720,2389.7,720.2,2389.3,719.4,2389.3z"/>
+						<path fill="#FFFFFF" d="M699.6,2372.3h19.8c0.9,0,0.6,1.4,0.6,2.2v0.8h-22v-0.8C698,2373.7,698.7,2372.3,699.6,2372.3z"/>
+					</g>
+				</g>
+			</g>
+			
+				<use xlink:href="#New_Symbol_13"  width="36" height="36" x="-18" y="-18" transform="matrix(1 0 0 -1 710 2382.3098)" overflow="visible"/>
+		</g>
+	</g>
+	
+		<use xlink:href="#New_Symbol_1"  width="240" height="120" x="-120" y="-60" transform="matrix(1 0 0 -1 396.5007 2418.8699)" overflow="visible"/>
+	<g>
+		<path fill="none" d="M236,2345.3H44.7c-6.7,0-12.7,4.9-12.7,11.6v159.8c0,6.6,5.9,12.6,12.5,12.6H236V2345.3z"/>
+		
+			<text transform="matrix(1 0 0 1 92.6884 2444.5273)" fill="#FFFFFF" font-family="'BebasNeue'" font-size="66.2108" letter-spacing="1">+10</text>
+		<text transform="matrix(1 0 0 1 66.4001 2481.7332)" fill="#DCF0E6" font-family="'Montserrat-Bold'" font-size="22">Swag Bucks</text>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="2" y="2734.3" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1718" height="89"/>
+		<rect x="2" y="2732.3" fill="#EEEEEE" width="1718" height="4"/>
+	</g>
+	<text transform="matrix(1 0 0 1 185.1401 2784.0039)"><tspan x="0" y="0" fill="#888888" font-family="'Helvetica-Light'" font-size="24"> Peanut Labs © 2014</tspan><tspan x="241.9" y="0" fill="#888888" font-family="'Helvetica'" font-size="24">  -  </tspan><tspan x="280.4" y="0" fill="#50B380" font-family="'Helvetica'" font-size="24">Bug Bounty Program   -  Privacy Policy  -</tspan><tspan x="746.7" y="0" fill="#50B380" font-family="'Helvetica'" font-size="24" letter-spacing="1"> </tspan><tspan x="754.6" y="0" fill="#50B380" font-family="'Helvetica'" font-size="24"> Terms &amp; Conditions  -  F.A.Q.  -  Peanut Labs Media</tspan></text>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M1062.6,2657.3c-6.1,0-10.6-5.3-10.6-11.3v-36.2c0-6,4.5-10.5,10.6-10.5h612.9c6.1,0,10.6,4.4,10.6,10.5
+					v36.2c0,6-4.5,11.3-10.6,11.3H1062.6z"/>
+				<path fill="#50B380" d="M1675.4,2600.3c5.5,0,9.6,4,9.6,9.5v36.2c0,5.5-4,10.3-9.6,10.3h-612.9c-5.5,0-9.6-4.9-9.6-10.3v-36.2
+					c0-5.5,4-9.5,9.6-9.5H1675 M1675.4,2598.3h-612.9c-6.6,0-11.6,4.9-11.6,11.5v36.2c0,6.6,4.9,12.3,11.6,12.3h612.9
+					c6.6,0,11.6-5.8,11.6-12.3v-36.2C1687,2603.2,1682.1,2598.3,1675.4,2598.3L1675.4,2598.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							
+								<image overflow="visible" opacity="0.75" width="20" height="36" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAlCAYAAACtbaI7AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZlJREFUeNrsldtOwzAQRO3UBBDQ
+lou4SFxf4P8/iRckEFAQLS1NEzOrjtHixiR9JpZGbRL7ZNa76xjTjW7802HXmey9r5vvrbXrQxVM
+frNwW0uDbUtggPUgx+sKWkAl//+AXUugwHJoG9rk9Rz6hGbK8d9QBXQE7UL70B5df0Cv2qkMceta
+AvvQMXRGsECeoAKa8rcKbl1DyAIcQKfQFTVk2CWdujg3qfAz5fAEuoFuCZV9faZyzk1Do7Bl8QF0
+SeAdwzdMUkjYSgW5hMsNaAc6gs6ha+gCOuQebqWAKWioyZzgAZPTp/uSz7NUrWd1yadCcRcMt1Dl
+Y3RdtnHqCZMwR9Aj9MA6NYTrEvJNUK+gE2b4Xu3hnGsmBPtGp9IN0hUMU9rvjXN6BEzZUe+s1UJt
+R2P4FRfIwhfeKwkd8tmILy5jxytQ5TaAJ+pFM1aDZTeN69zWdlS0DYZgWfhFhxldj+O+bzxPl9xf
+Z2muWnPBxM0JrcJ52uaQDvM0XO99FZ/+bT8nOjIbJdWs/TlJwFdy0I1uLMe3AAMACkWtPxADoqcA
+AAAASUVORK5CYII=" transform="matrix(1 0 0 1 1071.153 2608.4629)">
+							</image>
+							<g>
+								
+									<text transform="matrix(1 0 0 1 1076.8921 2634.9607)" fill="#469E71" font-family="'FontAwesome'" font-size="22" letter-spacing="1"></text>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1109" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1166,2600.3v56h-56v-56H1166 M1168,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1168,2598.3z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1222" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1279,2600.3v56h-56v-56H1279 M1281,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1281,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1244.6382 2633.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">3</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1279" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1336,2600.3v56h-56v-56H1336 M1338,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1338,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1301.7041 2633.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">4</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1337" y="2599.3" fill="#50B380" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1394,2600.3v56h-56v-56H1394 M1396,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1396,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1359.6272 2633.1658)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">5</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1134.3091 2633.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22">1</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1395" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1452,2600.3v56h-56v-56H1452 M1454,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1454,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1417.1763 2634.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">6</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1512" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1569,2600.3v56h-56v-56H1569 M1571,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1571,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1569" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1626,2600.3v56h-56v-56H1626 M1628,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1628,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1530.6562 2634.1658)" fill="#BBBBBB" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">...</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 1586.6873 2634.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">10</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1165" y="2599.3" fill="#FFFFFF" width="58" height="58"/>
+				<g>
+					<path fill="#50B380" d="M1222,2600.3v56h-56v-56H1222 M1224,2598.3h-1.5h-56h-2.5v1.6v56v2.4h2.5h56h1.5v-2.4v-56V2598.3
+						L1224,2598.3z"/>
+				</g>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1187.5171 2633.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22">2</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<text transform="matrix(1 0 0 1 1653.8921 2634.9607)" fill="#469E71" font-family="'FontAwesome'" font-size="22" letter-spacing="1"></text>
+		</g>
+	</g>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 1476.7703 2634.1658)" fill="#50B380" font-family="'Montserrat-Regular'" font-size="22" letter-spacing="1">7</text>
+	</g>
+</g>
+</svg>

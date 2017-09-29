@@ -107,16 +107,11 @@
                 updateURL();
             });
 
-            $("#paletteVisibilityCheckbox").change(function(){ $("#paletteVisibilityCheckbox").is(":checked") ? $("#paletteContainer").show() : $("#paletteContainer").hide(); });
-            $("#paletteContainer").hide();
-
-			$("#compareCheckbox").change(function(){ $("#compareCheckbox").is(":checked") ? $("#originalColorPalette").show() : $("#originalColorPalette").hide(); });
+            $("#compareCheckbox").change(function(){ $("#compareCheckbox").is(":checked") ? $("#originalColorPalette").show() : $("#originalColorPalette").hide(); });
             $("#originalColorPalette").hide();
 
             $("#accessExtraColorOptions").change(function(){ $("#accessExtraColorOptions").is(":checked") ? $("#extraColorOptions").show() : $("#extraColorOptions").hide(); });
             $("#extraColorOptions").hide();
-
-
             
         }
 
@@ -212,7 +207,6 @@
 
                 color4-base-fill        #FFFFFF
                 */
-				/*
                 applyClassesOverSVGColors(svg,"color1-base",["50B380","4FB280","4DB180"]);
                 applyClassesOverSVGColors(svg,"color1-shade0",["F8FCFA","F8FCF9","FFFFFE"]);
                 applyClassesOverSVGColors(svg,"color1-shade4",["74C39B","74C29A","74C19A"]);
@@ -241,106 +235,20 @@
                 applyClassesOverSVGColors(svg,"color2-shade5",["CCCCCC"]);
                 applyClassesOverSVGColors(svg,"color2-shade6",["DDDDDD"]);
                 applyClassesOverSVGColors(svg,"color2-shade7",["EEEEEE"]);
-                */
                 
-				applyClassesOverSVGColors(svg,"color1-shade7",["367A57"]);
-				applyClassesOverSVGColors(svg,"color1-shade6",["429369"]);
-				applyClassesOverSVGColors(svg,"color1-shade5",["469E71"]);
-				applyClassesOverSVGColors(svg,"color1-base",["50B380"]);
-				applyClassesOverSVGColors(svg,"color1-shade4",["77C49C"]);
-				applyClassesOverSVGColors(svg,"color1-shade3",["9AD3B5"]);
-				applyClassesOverSVGColors(svg,"color1-shade2",["BBE1CD"]);
-				applyClassesOverSVGColors(svg,"color1-shade1",["DCF0E6"]);
-				applyClassesOverSVGColors(svg,"color1-shade0",["F8FCFA"]);
-				
-				applyClassesOverSVGColors(svg,"color3-base",["FFFFFF"]);
-				
-				applyClassesOverSVGColors(svg,"color3-shade9",["555555"]);
-				applyClassesOverSVGColors(svg,"color3-shade8",["666666"]);
-				applyClassesOverSVGColors(svg,"color3-shade8",["777777"]);
-				applyClassesOverSVGColors(svg,"color3-shade7",["888888"]);
-				applyClassesOverSVGColors(svg,"color3-shade6",["999999"]);
-				applyClassesOverSVGColors(svg,"color3-shade5",["AAAAAA"]);
-				applyClassesOverSVGColors(svg,"color3-shade4",["BBBBBB"]);
-				applyClassesOverSVGColors(svg,"color3-shade3",["CCCCCC"]);
-				applyClassesOverSVGColors(svg,"color3-shade2",["DDDDDD"]);
-				applyClassesOverSVGColors(svg,"color3-shade1",["EEEEEE"]);
-				applyClassesOverSVGColors(svg,"color3-shade0",["F8F8F8"]);
-				
-				
-				/*
-				applyClassesOverSVGColors(svg,"color1-shade0",["429369","F8FCFA","F8FCF9","FFFFFE"]);
-                applyClassesOverSVGColors(svg,"color1-shade4",["469E71","74C39B","74C29A","74C19A"]);
-                applyClassesOverSVGColors(svg,"color1-shade3",["50B380","98D2B5","97D1B4","96D0B3"]);
-                applyClassesOverSVGColors(svg,"color1-shade2",["77C49C","BAE1CD","BAE0CC"]);
-                applyClassesOverSVGColors(svg,"color1-shade1",["9AD3B5","DFF1E8","DEEFE6","DFF0E8"]);
-                applyClassesOverSVGColors(svg,"color1-shade5",["BBE1CD","449E70","449D71","439D6F","48A172"]);
-                applyClassesOverSVGColors(svg,"color1-shade6",["DCF0E6","3F9268","3E9168"]);
-                applyClassesOverSVGColors(svg,"color1-shade7",["F8FCFA","347A57","077B5E","337A57"]);
-
-                applyClassesOverSVGColors(svg,"color3-base",["FFFFFF"]);
-                applyClassesOverSVGColors(svg,"color3-shade1",["EEEEEE","EAEAEA"]);
-                applyClassesOverSVGColors(svg,"color3-shade2",["DDDDDD"]);
-                applyClassesOverSVGColors(svg,"color3-shade3",["CCCCCC"]);
-                applyClassesOverSVGColors(svg,"color3-shade4",["BBBBBB","BEBEBE"]);
-                applyClassesOverSVGColors(svg,"color3-shade5",["AAAAAA"]);
-                applyClassesOverSVGColors(svg,"color3-shade6",["999999"]);
-                applyClassesOverSVGColors(svg,"color3-shade7",["888888"]);
-                applyClassesOverSVGColors(svg,"color3-shade8",["777777"]);
-
-                applyClassesOverSVGColors(svg,"color2-base",["555555"]);
-                applyClassesOverSVGColors(svg,"color2-shade1",["777777"]);
-                applyClassesOverSVGColors(svg,"color2-shade2",["888888"]);
-                applyClassesOverSVGColors(svg,"color2-shade3",["AAAAAA"]);
-                applyClassesOverSVGColors(svg,"color2-shade4",["BBBBBB"]);
-                applyClassesOverSVGColors(svg,"color2-shade5",["CCCCCC"]);
-                applyClassesOverSVGColors(svg,"color2-shade6",["DDDDDD"]);
-                applyClassesOverSVGColors(svg,"color2-shade7",["EEEEEE"]);
-				*/
-				/*
-				applyClassesOverSVGClasses(svg,"color3-base","st18");
-				applyClassesOverSVGClasses(svg,"color3-shade0","st17");
-				applyClassesOverSVGClasses(svg,"color3-shade1","st16");
-				applyClassesOverSVGClasses(svg,"color3-shade2","st15");
-				applyClassesOverSVGClasses(svg,"color3-shade3","st14");
-				applyClassesOverSVGClasses(svg,"color3-shade4","st13");
-				applyClassesOverSVGClasses(svg,"color3-shade5","st12");
-				applyClassesOverSVGClasses(svg,"color3-shade7","st11");
-				applyClassesOverSVGClasses(svg,"color3-shade9","st10");
-				applyClassesOverSVGClasses(svg,"color3-shade8","st9");
-				applyClassesOverSVGClasses(svg,"color1-shade0","st8");
-				applyClassesOverSVGClasses(svg,"color1-shade1","st7");
-				applyClassesOverSVGClasses(svg,"color1-shade2","st6");
-				applyClassesOverSVGClasses(svg,"color1-shade3","st5");
-				applyClassesOverSVGClasses(svg,"color1-shade4","st4");
-				applyClassesOverSVGClasses(svg,"color1-base","st3");
-				applyClassesOverSVGClasses(svg,"color1-shade5","st2");
-				applyClassesOverSVGClasses(svg,"color1-shade6","st1");
-				applyClassesOverSVGClasses(svg,"color1-shade7","st0");
-				*/
-				
-
-        }
-
-		function applyClassesOverSVGClasses(svg, classGroupName, targetClasses){
-            	for (var i in targetClasses) {
-					$("#" + svg.attr("id") + ' .'+targetClasses[i]).each(function(){
-						//alert("x");
-                    	$(this).removeClass(targetClasses[1]).addClass(($(this).attr("class") ? $(this).attr("class") : "" ) +" "+classGroupName+"-fill");
-                	});
-				}
+                //applyClassesOverSVGColors(svg,"color4-base",["FFFFFE"]);
         }
 
         function applyClassesOverSVGColors(svg, classGroupName, colors){
             for (var i in colors) {
-				$("#" + svg.attr("id") + ' [fill="#'+ colors[i] +'"]').each(function(){
+                //Customize Fills
+                $("#" + svg.attr("id") + ' [fill="#'+ colors[i] +'"]').each(function(){
                     $(this).removeAttr('fill').addClass(($(this).attr("class") ? $(this).attr("class") : "" ) +" "+classGroupName+"-fill");
                 });
                 //Customize Strokes
                 $("#" + svg.attr("id") + ' [stroke="#'+ colors[i] +'"]').each(function(){
                     $(this).removeAttr('stroke').addClass(($(this).attr("class") ? $(this).attr("class") : "" )+" "+classGroupName+"-stroke");
                 });  
-				
             };
         }
 
@@ -361,8 +269,7 @@
 <div class="options-container">
     
     <div class="input-label">
-        <div><input type="checkbox" id="paletteVisibilityCheckbox" />Show Customized Palette</div>
-		<div><input type="checkbox" id="compareCheckbox" />Show Original Palette</div>
+        <div><input type="checkbox" id="compareCheckbox" />Show Original Palette</div>
         <div><input type="checkbox" id="customizerVisibilityCheckbox" checked/> Show Customizer</div>
     </div>
     
@@ -403,7 +310,7 @@
 
 <div class="container-spacer"></div>
 
-<div class="palette-container" id="paletteContainer">
+<div class="palette-container">
       <ul>
         <li class="color2-base"> base </li>
         <li class="color2-shade1"></li>
@@ -450,6 +357,8 @@
         <li class="color3-shade0"><div class="sub-box color2-base"></div></li>
       </ul>
 </div>
+
+<div class="container-spacer"></div>
 
 <div id="svgsToCustomize" class="svg-mockup-container"></div>
 
