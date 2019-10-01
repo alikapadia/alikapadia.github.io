@@ -2,5 +2,5 @@
 <mask maskUnits="userSpaceOnUse" x="0" y="0" width="0" height="0" fill="black">
 <rect fill="white" width="0" height="0"/>
 </mask>
-<path d="M11.5 -20L2.83975 -5L20.1603 -5L11.5 -20ZM11.5 59L20.1603 44L2.83975 44L11.5 59ZM10 -6.5L10 45.5L13 45.5L13 -6.5L10 -6.5Z" fill="#357E97" mask="url(#)"/>
+<path d="M11.5 -20L2.83975 -5L20.1603 -5L11.5 -20ZM11.5 59L20.1603 44L2.83975 44L11.5 59ZM10 -6.5L10 45.5L13 45.5L13 -6.5L10 -6.5Z" fill="#5391A7" mask="url(#)"/>
 </svg>
