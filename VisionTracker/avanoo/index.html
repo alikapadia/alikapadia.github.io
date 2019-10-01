@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>AVANOO - Vision Tracker</title>
+	<!-- Favicon -->
+	<link href="../assets/images/favicon.png" rel="shortcut icon">
+	<!-- CSS -->
+	<link href="../assets/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+	<link href="../assets/plugins/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+	<link href="../assets/plugins/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
+	<link href="../assets/plugins/magnific-popup/magnific-popup.min.css" rel="stylesheet">
+	<link href="../assets/css/scss/app.css" rel="stylesheet">
+	<!-- <link href="../assets/css/custom.css" rel="stylesheet"> -->
+	<!-- Fonts/Icons -->
+	<link href="../assets/plugins/font-awesome/css/all.css" rel="stylesheet">
+	<link href="../assets/plugins/themify/themify-icons.min.css" rel="stylesheet">
+</head>
+
+<body data-preloader="2" data-spy="scroll" data-target=".navbar">
+
+	<header>
+		<nav class="navbar navbar-transparent-dark navbar-absolute-dark navbar-fixed">
+			<!-- add 'navbar-dark/navbar-grey/navbar-transparent/navbar-transparent-dark' -->
+			<div class="container">
+
+				<a class="navbar-brand" href="#">
+					<h6 style="color:white; font-weight: 200; font-size:16px">AVANOO</h6>
+					<h6 style="color:white; font-weight: 500; font-size:16px">Vision Tracker</h6>
+				</a>
+				<ul class="nav">
+					<li class="nav-item">
+						<a class="nav-link" onclick="resetAllAccordions()" href="#vision">All Missions</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" onclick="openAccordionsContaining('q4')" href="#vision">This Quarter</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" onclick="openAccordionsContaining('q4')" href="#vision">Q4 2019</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" onclick="openAccordionsContaining('q1')" href="#vision">Q1 2020</a>
+					</li>
+
+				</ul><!-- end nav -->
+				<!-- Nav Toggle button -->
+				<button class="nav-toggle-btn">
+					<span class="lines"></span>
+				</button><!-- toggle button will show when screen resolution is less than 992px -->
+			</div><!-- end container -->
+		</nav>
+	</header>
+	<!-- <div class="row vt-navbar">
+		<ul class="menu">
+			<li><a href="#">One</a></li>
+			<li><a href="#">Two</a></li>
+			<li><a href="#">Three</a></li>
+			<li><a href="#">Four</a></li>
+		</ul>
+	</div> -->
+	<!-- Scroll to top button -->
+	<div class="scrolltotop">
+		<a class="button-circle button-circle-sm button-circle-dark" href="#">
+			<i class="ti-arrow-up"></i>
+		</a>
+	</div>
+	<!-- end Scroll to top button -->
+
+	<!-- Home section -->
+	<div class="section-fullscreen bg-image hero-bg">
+		<div class="bg-white-00">
+			<div class="container text-center">
+
+				<div class="position-middle" data-jarallax-element="-20">
+					<div class="row col-spacing-70 vt-diagram-and-explanation">
+						<div class="col-12 col-lg-3 vt-diagram">
+							<div class="padding-30 border-all border-radius bg-white box-shadow-with-hover ">
+								<b>People</b>
+							</div>
+							<div class="vt-arrow-container">
+								<div class="vt-arrow">
+								</div>
+							</div>
+							<div class="padding-30 border-all border-radius bg-white box-shadow-with-hover ">
+								<b>Stories</b>
+							</div>
+							<div class="vt-arrow-container">
+								<div class="vt-arrow">
+								</div>
+							</div>
+							<div class="padding-30 border-all border-radius bg-white box-shadow-with-hover ">
+								<b>Values</b>
+							</div>
+						</div>
+						<div class="col-12 col-lg-9 text-left vt-diagram-explanation">
+
+
+							<h2>Automating the Company Culture Equation</h2>
+							<p>This is an explanation of what's going on in the diagram. This is an explanation of
+								what's going on in the diagram. This is an explanation of what's going on in the
+								diagram.
+							</p>
+							<p>This is an explanation of what's going on in the diagram. This is an explanation of
+								what's going on in the diagram. This is an explanation of what's going on in the
+								diagram. This is an explanation of what's going on in the diagram. This is an
+								explanation of
+								what's going on in the diagram.
+							</p>
+						</div>
+
+					</div>
+
+
+				</div>
+			</div><!-- end container -->
+		</div>
+	</div>
+	<!-- end Home section -->
+
+
+
+
+
+
+	<!-- Vision section -->
+	<div id="vision" class="section-lg">
+		<div class="container">
+			<div class="padding-30 border-all border-radius box-shadow-with-hover ">
+				<h4 class="text-center">People</h4>
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Employees</span>
+					<li>
+						<div class="accordion-title">
+							Do this for employees
+							<div class="chip chip-right state">2/4</div>
+
+							<!-- <div class="segmented-progress-bar">
+								<div class="segment completed"></div>
+								<div class="segment completed"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+								<div class="segment"></div>
+							</div> -->
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Recognition mission statement for employees
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">Da Bomb</li>
+								<li class="milestone incomplete">Featured Stories</li>
+								<li class="milestone incomplete">Recommended Stories</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Do that for employees
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">
+									List item
+									<div class="chip chip-left new">New</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">
+									List item
+									<div class="chip chip-left scheduled">Q3</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+
+							</ol>
+						</div>
+					</li>
+
+				</ul>
+
+
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Managers</span>
+					<li>
+						<div class="accordion-title">
+							Be able to do that thing for managers
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Make this automated for manager
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Make that automated for managers too
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Executives</span>
+					<li>
+						<div class="accordion-title">
+							Do this for executives
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Do that for executives
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Do another thing for executives
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+
+
+
+
+			</div>
+
+		</div>
+		<!-- end container -->
+		<div class="container">
+			<div class="row col-spacing-0">
+				<div class="col-12 col-lg-1">
+					<div class="vt-arrow">
+					</div>
+				</div>
+				<div class="col-12 col-lg-11">
+					<div class="padding-30">
+						<ul class="accordion accordion-oneopen style-3">
+							<span class="group-label">Distribute Stories</span>
+							<li>
+								<div class="accordion-title">
+									Some story distribution mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">List item</li>
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+							<li>
+								<div class="accordion-title">
+									Another story distribution mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">List item</li>
+										<li class="milestone complete">
+											List item
+											<div class="chip chip-left new">New</div>
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+										<li class="milestone incomplete">
+											List item
+											<div class="chip chip-left scheduled">Q3</div>
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+										<li class="milestone incomplete">
+											List item
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+									</ol>
+								</div>
+							</li>
+
+						</ul>
+
+
+						<ul class="accordion accordion-oneopen style-3">
+							<span class="group-label">Collect Stories</span>
+							<li>
+								<div class="accordion-title">
+									A story collection mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+							<li>
+								<div class="accordion-title">
+									A different story collection mission
+									<div class="chip chip-right state">2/4</div>
+
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">
+											List item
+
+										</li>
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+
+						</ul>
+
+
+
+
+						<!-- end container -->
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+
+
+
+		<div class="container">
+			<div class="padding-30 border-all border-radius box-shadow-with-hover ">
+				<h4 class="text-center">Stories</h4>
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Group Label A</span>
+					<li>
+						<div class="accordion-title">
+							First Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Second Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">
+									List item
+									<div class="chip chip-left new">New</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">
+									List item
+									<div class="chip chip-left scheduled">Q3</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">
+									List item
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Third Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Group Label B</span>
+					<li>
+						<div class="accordion-title">
+							First Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Second Title
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Third Title
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+
+			</div>
+
+		</div><!-- end container -->
+		<div class="container">
+			<div class="row col-spacing-0">
+				<div class="col-12 col-lg-1">
+					<div class="vt-arrow">
+					</div>
+				</div>
+				<div class="col-12 col-lg-11">
+					<div class="padding-30">
+						<ul class="accordion accordion-oneopen style-3">
+							<span class="group-label">Inform Values</span>
+							<li>
+								<div class="accordion-title">
+									Some value informing mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">List item</li>
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+							<li>
+								<div class="accordion-title">
+									Another values mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">List item</li>
+										<li class="milestone complete">
+											List item
+											<div class="chip chip-left new">New</div>
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+										<li class="milestone incomplete">
+											List item
+											<div class="chip chip-left scheduled">Q3</div>
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+										<li class="milestone incomplete">
+											List item
+											<div class="chip chip-left scheduled">Q4</div>
+										</li>
+									</ol>
+								</div>
+							</li>
+
+						</ul>
+
+
+						<ul class="accordion accordion-oneopen style-3">
+							<span class="group-label">Collect Values</span>
+							<li>
+								<div class="accordion-title">
+									A value collection mission
+									<div class="chip chip-right state">2/4</div>
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+							<li>
+								<div class="accordion-title">
+									A different value collection mission
+									<div class="chip chip-right state">2/4</div>
+
+
+								</div>
+								<div class="accordion-content">
+									<ol class="milestones">
+										<li class="milestone complete">
+											List item
+
+										</li>
+										<li class="milestone complete">List item</li>
+										<li class="milestone incomplete">List item</li>
+										<li class="milestone incomplete">List item</li>
+									</ol>
+								</div>
+							</li>
+
+						</ul>
+
+
+
+
+						<!-- end container -->
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+
+
+
+		<div class="container">
+			<div class="padding-30 border-all border-radius box-shadow-with-hover ">
+				<h4 class="text-center">Values</h4>
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Mission Group A</span>
+					<li>
+						<div class="accordion-title">
+							First Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Second Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">
+									List item
+									<div class="chip chip-left new">New</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">
+									List item
+									<div class="chip chip-left scheduled">Q3</div>
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+								<li class="milestone incomplete">
+									List item
+									<div class="chip chip-left scheduled">Q4</div>
+								</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Third Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+				<ul class="accordion accordion-oneopen style-3">
+					<span class="group-label">Mission Group B</span>
+					<li>
+						<div class="accordion-title">
+							First Title
+							<div class="chip chip-right state">2/4</div>
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Second Title
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">
+									List item
+
+								</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+					<li>
+						<div class="accordion-title">
+							Third Title
+							<div class="chip chip-right state">2/4</div>
+
+
+						</div>
+						<div class="accordion-content">
+							<ol class="milestones">
+								<li class="milestone complete">List item</li>
+								<li class="milestone complete">List item</li>
+								<li class="milestone incomplete">List item</li>
+								<li class="milestone incomplete">List item</li>
+							</ol>
+						</div>
+					</li>
+				</ul>
+
+
+
+			</div>
+
+		</div><!-- end container -->
+	</div>
+	<!-- end About section -->
+
+
+
+
+	<footer>
+		<div class="section bg-dark">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-12 col-md-6 text-center text-md-left">
+						<ul class="list-horizontal-dash">
+							<li><a href="#">Website</a></li>
+							<li><a href="#">Careers</a></li>
+						</ul>
+						<p class="margin-top-10">&copy; 2019 AVANOO, All Rights Reserved.</p>
+					</div>
+					<div class="col-12 col-md-6 text-center text-md-right">
+						<ul class="list-horizontal-unstyled">
+							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+							<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+						</ul>
+					</div>
+				</div><!-- end row -->
+			</div><!-- end container -->
+		</div>
+	</footer>
+
+	<!-- ***** JAVASCRIPTS ***** -->
+	<!-- Libraries -->
+	<script src="../assets/plugins/jquery.min.js"></script>
+	<script src="../assets/plugins/bootstrap/popper.min.js"></script>
+	<!-- Plugins -->
+	<script src="../assets/plugins/bootstrap/bootstrap.min.js"></script>
+	<script src="../assets/plugins/appear.min.js"></script>
+	<script src="../assets/plugins/easing.min.js"></script>
+	<script src="../assets/plugins/retina.min.js"></script>
+	<script src="../assets/plugins/countdown.min.js"></script>
+	<script src="../assets/plugins/imagesloaded.pkgd.min.js"></script>
+	<script src="../assets/plugins/isotope.pkgd.min.js"></script>
+	<script src="../assets/plugins/jarallax/jarallax.min.js"></script>
+	<script src="../assets/plugins/jarallax/jarallax-video.min.js"></script>
+	<script src="../assets/plugins/jarallax/jarallax-element.min.js"></script>
+	<script src="../assets/plugins/magnific-popup/magnific-popup.min.js"></script>
+	<script src="../assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+	<script src="../assets/plugins/jquery.easypiechart.min.js"></script>
+	<!-- Place your API Key in 'YOUR_API_KEY'
+		You can get Google API key here: 'https://developers.google.com/maps/documentation/javascript/get-api-key' -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+	<script src="../assets/plugins/gmaps.min.js"></script>
+	<!-- Scripts -->
+	<script src="../assets/js/functions.js"></script>
+</body>
+
+</html>

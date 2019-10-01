@@ -1,0 +1,332 @@
+//
+// Your Custom Styles //
+//
+
+$color-accent: #003e52;
+$color-accent-lighter: #1f5e74;
+$color-accent-lightest: #d4e5ea;
+$color-text-over-accent: #f5f4f0;
+
+$color-success: #12b8a0;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 30px;
+  letter-spacing: -0.3px;
+  color: #141414;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.section.bg-dark {
+  background: $color-accent !important;
+}
+
+.navbar-absolute-dark.navbar-transparent-dark h5 {
+  color: $color-text-over-accent;
+}
+
+.navbar-absolute-dark.navbar-dark .nav .nav-item .nav-link,
+.navbar-absolute-dark.navbar-transparent-dark .nav .nav-item .nav-link {
+  color: $color-text-over-accent;
+  padding: 1em;
+  line-height: 1em;
+}
+
+.navbar-shrink.navbar-absolute.navbar-transparent-dark,
+.navbar-shrink.navbar-absolute-dark.navbar-transparent-dark {
+  background: $color-accent;
+  padding: 1em;
+  line-height: 1em;
+}
+
+.navbar-shrink.navbar-absolute-dark.navbar-transparent-dark .nav .nav-item .nav-link.active {
+  color: $color-text-over-accent;
+}
+
+.navbar-absolute-dark.navbar-transparent-dark .nav .nav-item .nav-link:hover {
+  background-color: $color-accent-lighter;
+  color: $color-text-over-accent !important;
+  height: auto;
+  border-radius: 0.25em;
+}
+
+.selected-link,
+.navbar-absolute-dark.navbar-transparent-dark .nav .nav-item .nav-link.selected-link:hover {
+  background-color: $color-accent-lightest;
+  color: $color-accent !important;
+  height: auto;
+  border-radius: 0.25em;
+}
+
+.hero-bg {
+  background-color: #003e52;
+  z-index: -2;
+}
+
+.hero-bg::after {
+  //background-image: url(../assets/images/vt/hero-bg.jpg);
+  content: "";
+  background-image: url(../../images/vt/hero-bg.jpg);
+  background-size: 100%;
+  filter: grayscale(100%) contrast(100%);
+  mix-blend-mode: lighten;
+  opacity: 0.04;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.section-fullscreen .position-middle {
+  z-index: 5;
+  top: 35%;
+}
+
+.hero-bg .box-shadow-with-hover {
+  height: auto !important;
+}
+
+.vt-arrow {
+  height: 100%;
+  width: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("../../images/vt/Arrow-Body-Lighter.svg");
+}
+
+div.vt-arrow::before {
+  content: "                                   ";
+  display: block;
+  height: 20px;
+  width: 24px;
+  background-image: url("../../images/vt/Arrow-Head-Lighter.svg");
+}
+div.vt-arrow::after {
+  content: "                                   ";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  height: 20px;
+  width: 24px;
+  background-image: url("../../images/vt/Arrow-Foot-Lighter.svg");
+}
+
+.vt-diagram-and-explanation {
+  display: flex;
+}
+
+.vt-diagram {
+  margin-bottom: 0 !important;
+  margin: auto;
+}
+
+.vt-diagram b {
+  font-weight: 600;
+  color: $color-accent !important;
+}
+
+.vt-diagram-explanation {
+  //margin-bottom: top;
+  //margin-bottom: auto;
+  margin: auto !important;
+  padding-left: 110px !important;
+  color: $color-white-08;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.vt-diagram-explanation h2 {
+  color: $color-text-over-accent !important;
+  font-size: 2em;
+}
+
+.vt-diagram-explanation p {
+  margin-bottom: 1em;
+}
+
+.vt-diagram-explanation p:last-of-type {
+  margin-bottom: 0;
+}
+
+.vt-diagram .vt-arrow-container {
+  height: 65px;
+  display: block;
+  position: relative;
+}
+
+.vt-diagram .vt-arrow {
+}
+
+.vt-diagram .vt-arrow::after {
+}
+
+#vision {
+  background-color: $color-text-over-accent;
+}
+
+#vision h4 {
+  color: $color-accent;
+}
+
+.box-shadow-with-hover {
+  background: white;
+}
+
+.accordion-label {
+  float: left;
+}
+
+.accordion .card-header {
+  cursor: pointer;
+}
+
+.accordion .group-label {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin: 3em 0 1em 0;
+  text-transform: uppercase;
+  color: $color-black-05;
+}
+
+.container .accordion:first-of-type .group-label {
+  margin: 1em 0 1em 0;
+}
+
+.accordion .accordion-title {
+  color: $color-black-07;
+  font-weight: 500;
+  font-size: 0.9em;
+  letter-spacing: -0.3px;
+}
+
+.accordion .accordion-title::after {
+  right: 0;
+  width: 0px;
+  height: 0px;
+}
+
+.accordion.style-3 li .accordion-title {
+  border-bottom: 0 solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 10px;
+  -webkit-transition: linear 0.1s;
+  transition: linear 0.1s;
+}
+
+.chip,
+li.milestone::before {
+  display: inline-block;
+  background-color: $color-black-04;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: $color-text-over-accent;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.chip.state {
+  display: inline-block;
+  //background-color: $color-black-04;
+  background-color: transparent;
+  padding: 2px 6px;
+  border-radius: 4px;
+  //color: $color-text-over-accent;
+  color: $color-black-04;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+ol.milestones {
+  counter-reset: item;
+  margin-left: 0;
+  padding-left: 0;
+  margin-bottom: 12px;
+}
+li.milestone,
+li.milestone:last-child {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-left: -1em;
+}
+
+li.milestone::before {
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  margin: 0 5px 0 -15px;
+  counter-increment: item;
+  width: auto;
+  margin-left: 0;
+}
+
+li.milestone.complete::before {
+  content: "\f00c  Milestone "counter(item);
+  background-color: $color-success;
+}
+
+li.milestone.incomplete::before {
+  content: "\f00d  Milestone "counter(item);
+  background-color: $color-black-04;
+}
+
+li.milestone.incomplete {
+  color: $color-black-05;
+}
+
+.chip-right {
+  float: right;
+  margin: 0 0 0 6px;
+}
+
+.chip-left,
+li.milestone::before {
+  float: left;
+  margin: 0 6px 0 0;
+  font-weight: 100;
+}
+
+.chip.scheduled {
+  background-color: $color-black-04;
+}
+
+//VT SEGMENTED PROGRESS BAR
+
+.accordion-title-content,
+.accordion-title-progress {
+  display: block;
+}
+
+.accordion-title-progress {
+  margin-top: 6px;
+}
+
+.accordion.style-3 li .accordion-content::before {
+  height: 0;
+}
+
+.segmented-progress-bar {
+  display: block;
+  margin-top: 6px;
+  width: 100%;
+}
+
+.segment {
+  width: 9.7%;
+  border: none;
+  background-color: $color-black-01;
+  //border-radius: 2px;
+  //margin-right: 0.3%;
+  float: left;
+  display: block;
+  height: 3px;
+}
+
+.completed {
+  background-color: $color-success !important;
+}
